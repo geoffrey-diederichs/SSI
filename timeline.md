@@ -2,3 +2,5 @@
 12:25 : reception talkie walkie
 
 13:54 : vérification de moyen de communication (talkie-walkie) par lien sur mail
+14:06 : début opération first strike (par mail)
+14:08 : Demande d'infiltration de l'état major
