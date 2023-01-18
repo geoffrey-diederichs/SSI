@@ -1,15 +1,15 @@
-#Nom
+# Nom
 
 Rafale
 
-#Rayons de portées:    
+# Rayons de portées:    
 
 Vitesse max=1300 km , distance max=2 037 km       
 
-#Vitesse 
+# Vitesse 
 M = 1.8 / 750 nœuds environ 2200km/h
 
-#Armes:
+# Armes:
 Armement en mission de défense aérienne :
 
 Canon de 30 mm DEFA 791.
@@ -24,11 +24,11 @@ Missile de croisière SCALP - EG
 Missile anti-navire AM 39.
 Missile ASMP-A.
 
-#Poids
+# Poids
 à vide : ~10 000 kg
 maximale :~24 500 kg
 
-#Sources 
+# Sources 
 
 http://www.ffaa.net/aircraft/rafale/caracteristiques.htm
 https://www.dassault-aviation.com/fr/defense/rafale/caracteristiques-et-performances/

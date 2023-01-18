@@ -5,4 +5,4 @@
 
 # Avions Estovakie
 
-[Sukhoi su 57](./Informations/Sukhoi_su_57.md)
+[Sukhoi su 57](./Informations/sukhoi_su_57.md)
